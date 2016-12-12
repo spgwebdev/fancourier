@@ -1,0 +1,15 @@
+/vendor
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.idea
+.project
+_ide_helper.php
+composer.phar
+error.log
+access.log
+nbproject
+Todo.rtf
+.vagrant
+composer.lock
