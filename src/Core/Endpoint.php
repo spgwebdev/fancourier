@@ -42,7 +42,7 @@ abstract class Endpoint implements EndpointInterface {
     /*
      * 
      */
-    protected function __set($name, $value) 
+    public function __set($name, $value) 
     {
         $this->$name = $value;
     }
@@ -50,7 +50,7 @@ abstract class Endpoint implements EndpointInterface {
     /*
      * 
      */
-    protected function __get($name) 
+    public function __get($name) 
     {
         return $this->$name;
     }
