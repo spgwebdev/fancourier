@@ -11,7 +11,7 @@ Install the package through [Composer](http://getcomposer.org/).
 
 Run the Composer require command from the Terminal:
 
-    composer require seniorprogramming/fancourier
+    composer require seniorprogramming/fancourier:dev-master
 
 Now all you have to do is add the service provider of the package and alias the package. To do this open your `config/app.php` file.
 
