@@ -3,9 +3,9 @@
 namespace SeniorProgramming\FanCourier\Core;
 
 use SeniorProgramming\FanCourier\Core\BaseInterface;
-use SeniorProgramming\Fancourier\Exceptions\FanCourierInstanceException;
-use SeniorProgramming\Fancourier\Exceptions\FanCourierUnknownModelException;
-use SeniorProgramming\Fancourier\Exceptions\FanCourierInvalidParamException;
+use SeniorProgramming\FanCourier\Exceptions\FanCourierInstanceException;
+use SeniorProgramming\FanCourier\Exceptions\FanCourierUnknownModelException;
+use SeniorProgramming\FanCourier\Exceptions\FanCourierInvalidParamException;
 use \Curl\Curl;
 use SeniorProgramming\FanCourier\Helpers\Csv;
 

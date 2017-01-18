@@ -3,7 +3,7 @@
 namespace SeniorProgramming\Fancourier\Requests;
 
 use SeniorProgramming\FanCourier\Core\Endpoint;
-use SeniorProgramming\Fancourier\Exceptions\FanCourierInvalidParamException;
+use SeniorProgramming\FanCourier\Exceptions\FanCourierInvalidParamException;
 
 class EndBorderou extends Endpoint {
     

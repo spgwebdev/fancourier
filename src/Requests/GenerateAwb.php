@@ -4,7 +4,7 @@ namespace SeniorProgramming\Fancourier\Requests;
 
 use SeniorProgramming\FanCourier\Core\Endpoint;
 use SeniorProgramming\FanCourier\Helpers\Hints;
-use SeniorProgramming\Fancourier\Exceptions\FanCourierInvalidParamException;
+use SeniorProgramming\FanCourier\Exceptions\FanCourierInvalidParamException;
 
 class GenerateAwb extends Endpoint {
     

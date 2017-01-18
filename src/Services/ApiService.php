@@ -3,8 +3,8 @@ namespace SeniorProgramming\Fancourier\Services;
 
 use SeniorProgramming\FanCourier\Core\Base;
 use SeniorProgramming\FanCourier\Helpers\Hints;
-use SeniorProgramming\Fancourier\Exceptions\FanCourierInstanceException;
-use SeniorProgramming\Fancourier\Exceptions\FanCourierInvalidParamException;
+use SeniorProgramming\FanCourier\Exceptions\FanCourierInstanceException;
+use SeniorProgramming\FanCourier\Exceptions\FanCourierInvalidParamException;
 use SeniorProgramming\FanCourier\Exceptions\FanCourierUnknownModelException;
 
 class ApiService extends Base {

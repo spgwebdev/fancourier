@@ -1,6 +1,6 @@
 <?php
 
-namespace SeniorProgramming\Fancourier\Exceptions;
+namespace SeniorProgramming\FanCourier\Exceptions;
 
 class FanCourierInstanceException extends \Exception {
     

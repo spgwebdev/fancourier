@@ -2,7 +2,7 @@
 
 namespace SeniorProgramming\FanCourier\Core;
 
-use SeniorProgramming\Fancourier\Exceptions\FanCourierInvalidParamException;
+use SeniorProgramming\FanCourier\Exceptions\FanCourierInvalidParamException;
 use SeniorProgramming\FanCourier\Core\EndpointInterface;
 
 

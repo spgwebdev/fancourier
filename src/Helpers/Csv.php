@@ -2,7 +2,7 @@
 
 namespace SeniorProgramming\FanCourier\Helpers;
 
-use SeniorProgramming\Fancourier\Exceptions\FanCourierInstanceException;
+use SeniorProgramming\FanCourier\Exceptions\FanCourierInstanceException;
 use CURLFile;
 
 class Csv {
