@@ -249,7 +249,7 @@ FanCourier::price([
     'inaltime' => 10,
     'val_decl' => 600,
     'plata_ramburs' => 'destinatar',
-    'plata_la' => 'expeditor',
+    'plata_la' => 'destinatar',
 ])
 ```
 
