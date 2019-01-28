@@ -403,6 +403,7 @@ FanCourier::exportAwbErrors()
 ```php
 FanCourier::getAwb([
     'nr'=>'2337600120003', //AWB
+    'type' => '2', //1,2,3
 ])
 ```
 

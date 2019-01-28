@@ -52,7 +52,8 @@ class GetAwb extends Endpoint {
     private function methodRequirements() 
     {
         return [
-            'nr', //AWB
+            'nr', //AWB,
+            'type'
         ];
     }
 }
